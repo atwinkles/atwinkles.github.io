@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/sudomilitant
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://h313.info
+  * I am sudomilitant (https://keybase.io/sudomilitant) on keybase.
+  * I have a public key ASCenvSZ6-ngLazmy-K7O5uMpVVFj5KejuZipr2CYbtPAwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207c7c932cb4445266eb066600ae689457368b00e0b5dd5309b1f93715457464e10a",
+      "host": "keybase.io",
+      "kid": "01209e9ef499ebe9e02dace6cbe2bb3b9b8ca555458f929e8ee662a6bd8261bb4f030a",
+      "uid": "3f0cdc89a3f43be91f16bf2f8c352119",
+      "username": "sudomilitant"
+    },
+    "merkle_root": {
+      "ctime": 1517445313,
+      "hash": "9967586a74855cbb42fad1f7fb6a9c9781ed36f193e7ac364bc6843b318c62da1d818d4285a91a0997f7ba593b2ba5d5028d95401583ba8269380d74b5d14f52",
+      "hash_meta": "2c810dc5faf218176cfadde1e17f760abcdf39a16f56a16a13bc1de6e9d2a1fd",
+      "seqno": 2013586
+    },
+    "service": {
+      "hostname": "h313.info",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.40"
+  },
+  "ctime": 1517445318,
+  "expire_in": 504576000,
+  "prev": "4d3fc692c1ffd32548d3af870446efc538b7d3b6eb0aff5a740d26645dfc508b",
+  "seqno": 147,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgnp70mevp4C2s5sviuzubjKVVRY+Sno7mYqa9gmG7TwMKp3BheWxvYWTFA0d7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwN2M3YzkzMmNiNDQ0NTI2NmViMDY2NjAwYWU2ODk0NTczNjhiMDBlMGI1ZGQ1MzA5YjFmOTM3MTU0NTc0NjRlMTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOWU5ZWY0OTllYmU5ZTAyZGFjZTZjYmUyYmIzYjliOGNhNTU1NDU4ZjkyOWU4ZWU2NjJhNmJkODI2MWJiNGYwMzBhIiwidWlkIjoiM2YwY2RjODlhM2Y0M2JlOTFmMTZiZjJmOGMzNTIxMTkiLCJ1c2VybmFtZSI6InN1ZG9taWxpdGFudCJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUxNzQ0NTMxMywiaGFzaCI6Ijk5Njc1ODZhNzQ4NTVjYmI0MmZhZDFmN2ZiNmE5Yzk3ODFlZDM2ZjE5M2U3YWMzNjRiYzY4NDNiMzE4YzYyZGExZDgxOGQ0Mjg1YTkxYTA5OTdmN2JhNTkzYjJiYTVkNTAyOGQ5NTQwMTU4M2JhODI2OTM4MGQ3NGI1ZDE0ZjUyIiwiaGFzaF9tZXRhIjoiMmM4MTBkYzVmYWYyMTgxNzZjZmFkZGUxZTE3Zjc2MGFiY2RmMzlhMTZmNTZhMTZhMTNiYzFkZTZlOWQyYTFmZCIsInNlcW5vIjoyMDEzNTg2fSwic2VydmljZSI6eyJob3N0bmFtZSI6ImgzMTMuaW5mbyIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjQwIn0sImN0aW1lIjoxNTE3NDQ1MzE4LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjRkM2ZjNjkyYzFmZmQzMjU0OGQzYWY4NzA0NDZlZmM1MzhiN2QzYjZlYjBhZmY1YTc0MGQyNjY0NWRmYzUwOGIiLCJzZXFubyI6MTQ3LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQNrutJBTl+VCzjFxOkSlNRXoudPj5Z1fUbbZ4gy6l80dHURM1vEFdZmjNY6PnSGhgGjgFEauzrk57PkyOaGuwQqoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCBgQ9bPZ/XwagndJk6IydiCDmIS1o0xMQn35Ef+YbGsFKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sudomilitant
+
+==================================================================
